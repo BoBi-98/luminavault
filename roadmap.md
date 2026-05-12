@@ -20,3 +20,9 @@
 * Streaming layer
 * AI media workflows
 * Public test environment
+## Long-Term Exploration
+
+* AI-assisted media indexing
+* Cross-chain asset accessibility
+* Distributed caching strategies
+* Decentralized content acceleration
